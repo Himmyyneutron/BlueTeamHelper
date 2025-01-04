@@ -1,0 +1,15 @@
+Keywords,Date and Time,Source,Event ID,Task Category
+Failed Login,2025-01-04 00:06:39,192.168.109.52,1167,Authentication
+File Access,2025-01-04 00:58:39,10.83.196.235,1252,Authentication
+Suspicious,2025-01-04 05:46:39,192.168.134.131,1238,Audit
+Failed Login,2025-01-04 04:59:39,172.16.232.188,1699,Authentication
+Suspicious,2025-01-04 00:00:39,172.28.205.18,1772,Network
+Failed Login,2025-01-04 04:58:39,192.168.13.149,1700,Authentication
+Suspicious,2025-01-04 02:00:39,10.0.0.1,1141,Authentication
+Suspicious,2025-01-04 00:02:39,10.111.203.166,1583,Network
+Suspicious,2025-01-04 00:24:39,172.16.30.212,1381,Network
+Failed Login,2025-01-04 01:03:39,192.168.175.254,1729,Network
+File Access,2025-01-04 05:12:39,10.133.150.153,1235,Audit
+Failed Login,2025-01-04 05:02:39,10.0.0.1,1851,Network
+File Access,2025-01-04 00:40:39,10.81.238.252,1653,File System
+Suspicious,2025-01-04 02:44:39,172.25.16.251,1072,Audit

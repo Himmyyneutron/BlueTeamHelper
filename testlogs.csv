@@ -1,0 +1,51 @@
+Keywords,Date and Time,Source,Event ID,Task Category
+Successful Login,2025-01-03 18:39:39,172.27.238.106,1335,File System
+Failed Login,2025-01-04 00:06:39,192.168.109.52,1167,Authentication
+Failed Login,2025-01-03 17:17:39,10.128.195.46,1771,Network
+Failed Login,2025-01-03 19:26:39,192.168.54.200,1533,Authentication
+Successful Login,2025-01-03 21:22:39,172.16.0.2,1916,Audit
+File Access,2025-01-04 00:58:39,10.83.196.235,1252,Authentication
+Suspicious,2025-01-04 05:46:39,192.168.134.131,1238,Audit
+File Access,2025-01-04 11:57:39,10.0.0.1,1609,Authentication
+Successful Login,2025-01-04 06:16:39,172.30.192.43,1157,File System
+Failed Login,2025-01-03 20:22:39,172.30.206.132,1589,Network
+Failed Login,2025-01-03 17:41:39,192.168.110.46,1333,Authentication
+Suspicious,2025-01-04 09:06:39,192.168.145.66,1506,Audit
+Failed Login,2025-01-03 19:39:39,192.168.241.164,1241,Audit
+Successful Login,2025-01-04 14:34:39,10.252.11.138,1662,Network
+Suspicious,2025-01-03 17:58:39,172.23.158.129,1817,File System
+Failed Login,2025-01-04 04:59:39,172.16.232.188,1699,Authentication
+File Access,2025-01-03 21:34:39,10.226.150.176,1667,File System
+Failed Login,2025-01-03 18:33:39,172.31.249.129,1278,File System
+File Access,2025-01-04 13:40:39,10.64.120.222,1868,Network
+Suspicious,2025-01-03 18:04:39,10.186.92.139,1143,Network
+Suspicious,2025-01-04 00:00:39,172.28.205.18,1772,Network
+Failed Login,2025-01-04 04:58:39,192.168.13.149,1700,Authentication
+Successful Login,2025-01-04 13:58:39,10.132.0.140,1349,Authentication
+Suspicious,2025-01-04 02:00:39,10.0.0.1,1141,Authentication
+Successful Login,2025-01-04 07:14:39,172.23.201.159,1040,Audit
+Suspicious,2025-01-04 10:43:39,192.168.176.149,1782,Network
+Suspicious,2025-01-04 00:02:39,10.111.203.166,1583,Network
+Successful Login,2025-01-04 09:12:39,10.74.223.195,1334,Network
+Failed Login,2025-01-04 07:42:39,172.24.222.218,1291,File System
+File Access,2025-01-04 06:47:39,192.168.73.57,1827,File System
+Successful Login,2025-01-04 08:22:39,10.192.111.103,1727,Authentication
+Suspicious,2025-01-04 00:24:39,172.16.30.212,1381,Network
+Failed Login,2025-01-04 06:29:39,192.168.93.43,1842,Authentication
+Successful Login,2025-01-03 18:23:39,192.168.103.127,1067,File System
+Suspicious,2025-01-04 14:46:39,10.51.11.35,1261,Audit
+Failed Login,2025-01-04 01:03:39,192.168.175.254,1729,Network
+Suspicious,2025-01-04 07:00:39,192.168.1.100,1360,Audit
+Successful Login,2025-01-04 07:01:39,10.251.7.160,1531,Audit
+Suspicious,2025-01-03 18:18:39,172.23.59.246,1758,File System
+File Access,2025-01-04 09:54:39,172.24.235.133,1643,Network
+Suspicious,2025-01-03 19:44:39,172.18.179.167,1480,Audit
+Successful Login,2025-01-04 11:28:39,10.3.10.123,1644,File System
+File Access,2025-01-04 05:12:39,10.133.150.153,1235,Audit
+Failed Login,2025-01-04 07:08:39,192.168.101.174,1775,Audit
+Failed Login,2025-01-04 05:02:39,10.0.0.1,1851,Network
+File Access,2025-01-04 00:40:39,10.81.238.252,1653,File System
+File Access,2025-01-03 15:57:39,10.95.212.168,1730,File System
+Suspicious,2025-01-04 12:42:39,10.52.90.106,1657,Audit
+Failed Login,2025-01-04 13:50:39,10.114.176.157,1109,File System
+Suspicious,2025-01-04 02:44:39,172.25.16.251,1072,Audit
