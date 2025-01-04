@@ -21,7 +21,7 @@
 ## Screenshots 📸
 
 ### Log Generator
-![Log Generator Screenshot](assets/generator.png)
+![Log Generator Screenshot](assets/loggen.png)
 
 ### Log Parser
 ![Log Parser Screenshot](assets/parser.png)
@@ -33,3 +33,9 @@
 ```bash
 git clone https://github.com/Himmyneutron/BlueTeamHelper.git
 cd BlueTeamHelper
+
+##Install the required Python libraries 
+pip install pandas faker colorama art
+
+##Run the log generator to create realistic logs
+python generate_logs.py

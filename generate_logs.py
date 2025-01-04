@@ -47,7 +47,7 @@ def clear_terminal():
 # Main function with a menu
 def main():
     clear_terminal()
-    tprint("Log Generator", font="epic")
+    tprint("Log Gen", font="block")
     print(Fore.YELLOW + "Welcome to the Log Generator UI!" + Style.RESET_ALL)
 
     while True:
