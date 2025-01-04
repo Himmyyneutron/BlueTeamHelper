@@ -1,6 +1,6 @@
 # Blue Team Helper 🚀
 
-**Blue Team Helper** is a Python project for generating and analyzing Windows security logs. Perfect for blue teams, SOC analysts, and cybersecurity enthusiasts to practice log analysis and improve threat detection skills.
+**Blue Team Helper** is a Python project created by Joel Morales for generating and analyzing Windows security logs. Perfect for blue teams, SOC analysts, and cybersecurity enthusiasts to practice log analysis and improve threat detection skills in a simulated training enviroment. 
 
 ---
 
