@@ -24,7 +24,7 @@
 ![Log Generator Screenshot](assets/loggen.png)
 
 ### Log Parser
-![Log Parser Screenshot](assets/parser.png)
+![Log Parser Screenshot](assets/logparse.png)
 
 ---
 
