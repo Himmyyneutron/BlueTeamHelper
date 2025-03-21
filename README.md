@@ -34,8 +34,8 @@
 git clone https://github.com/Himmyneutron/BlueTeamHelper.git
 cd BlueTeamHelper
 
-##Install the required Python libraries 
+#Install the required Python libraries 
 pip install pandas faker colorama art
 
-##Run the log generator to create realistic logs
+#Run the log generator to create realistic logs
 python generate_logs.py
